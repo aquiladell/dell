@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <link rel="pingback" href="http://dellaquilainvestment.com/xmlrpc.php">
 <title>Dell'Aquila Investments</title>
-<meta name="description" content="  Dell'Aquila Investments.  Management for family office. Manages the assets of its founders.">
+<meta name="description" content="  Dell'Aquila Investments. Management for family office. Manages the assets of its founders.">
 <link rel="dns-prefetch" href="http://fonts.googleapis.com/">
 <link rel="dns-prefetch" href="http://s.w.org/">
 <link rel="alternate" type="application/rss+xml" title="Dell'Aquila Investments » Feed" href="http://dellaquilainvestment.com/feed/">
@@ -39,13 +39,16 @@
 					  <!-- <div style="overflow-x:auto;">  -->  
 				<center>	<table><tbody><tr><td>  
 					    <!-- Button to open the modal login form -->						
-	                                    <button onclick="document.getElementById('id01').style.display='block'" >
-                                            <img src="investment/botaoLog.jpg" class="dell"></button> 
+	                   <button onclick="document.getElementById('id01').style.display='block'" >
+                       <img src="investment/botaoLog.jpg" class="dell"></button> 
 					    </td><td> 
 					    <img src="investment/Investiment.jpg" class="dell">						
                         </td><td> 
 					    <img src="investment/galvao.jpg" class="dell" >
-					   </td></tr></tbody></table> </center> 
+					   </td></tr></tbody></table> </center>
+                     <center> <table bgcolor="yellow"><tbody><tr><td> 
+                    <h5>Your User ID or Password is incorret !  Try again .</h5> </td></tr></tbody></table>  </center>
+					   
 				 <!--	</div> coloquei isso -->
                  <!-- The Modal -->
                     <div id="id01" class="modal">
