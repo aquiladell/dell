@@ -2,13 +2,13 @@
 <html lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta charset="UTF-8">
-<link rel="pingback" href="http://dellaquilainvestment.com/xmlrpc.php">
+<link rel="pingback" href="http://dellaquilainvestment.com">
 <title>Dell'Aquila Investments</title>
 <meta name="description" content="  Dell'Aquila Investments. Management for family office. Manages the assets of its founders.">
 <link rel="dns-prefetch" href="http://fonts.googleapis.com/">
 <link rel="dns-prefetch" href="http://s.w.org/">
-<link rel="alternate" type="application/rss+xml" title="Dell'Aquila Investments Â» Feed" href="http://dellaquilainvestment.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Dell'Aquila Investments Â» Comments Feed" href="http://dellaquilainvestment.com/comments/feed/">	
+<link rel="alternate" type="application/rss+xml" title="Dell'Aquila Investments » Feed" href="http://dellaquilainvestment.com">
+<link rel="alternate" type="application/rss+xml" title="Dell'Aquila Investments » Comments Feed" href="http://dellaquilainvestment.com">	
 
  <link rel="stylesheet" id="fart-style-css" href="investment/style.css" type="text/css" media="all">
  <script type="text/javascript" src="investment/jquery_002.js"></script>
