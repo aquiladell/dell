@@ -20,7 +20,7 @@ public class CriarConexao extends HttpServlet {
 	   Class.forName("com.mysql.jdbc.Driver");
 	   System.out.print("---CONNECTOU----");
 	   
-	  // return DriverManager.getConnection("jdbc:mysql://localhost:3306/eugenio","root","rafael12");
+	
 	
 	   return DriverManager.getConnection("jdbc:mysql://127.7.71.2:3306/eugenio","adminKnxmK8C","jAC5TjTqV8nr");
 	   
