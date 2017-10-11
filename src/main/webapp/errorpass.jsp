@@ -2,7 +2,7 @@
 <html lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta charset="UTF-8">
-<meta name="keywords" content="dellaquilainvestments, dell aquila, dellaquila, Dell'Aquila, investments, Investments">
+<meta name="keywords" content="dellaquilainvestments, dell aquila, dellaquila, Dell'Aquila, investments, Investments, emerging market, Emerging , Market">
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Dell'Aquila Investments" />
 <meta property="og:url" content="http://dellaquilainvestments.com" />
