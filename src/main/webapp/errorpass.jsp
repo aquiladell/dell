@@ -3,9 +3,7 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta charset="UTF-8">
 <meta name="keywords" content="dellaquilainvestments, dell aquila, dellaquila, Dell'Aquila, investments, Investments, emerging market, Emerging , Market">
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Dell'Aquila Investments" />
-<meta property="og:url" content="http://dellaquilainvestments.com" />
+
 <link rel="pingback" href="http://dellaquilainvestments.com">
 <title>Dell'Aquila Investments</title>
 <meta name="description" content="  Dell'Aquila Investments. Management for family office. Manages the assets of its founders.">	
